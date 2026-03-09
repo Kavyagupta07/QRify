@@ -1,0 +1,5 @@
+{
+  "name": "QRify",
+  "description": "A production-quality QR Code generation and management platform with dynamic redirects, analytics, and security features.",
+  "requestFramePermissions": []
+}
